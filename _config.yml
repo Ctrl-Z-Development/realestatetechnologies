@@ -1,10 +1,10 @@
 # basic options
 title: Real Estate Technologies
-author: GitHub User
+author: Joseph Clegg and James Motes
 email: josephrc@cleggunlimited.com
 description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  joeyclegg
+github_username:  jamesmotes
 
 # Build settings
 markdown: kramdown
