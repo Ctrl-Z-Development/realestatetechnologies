@@ -4,6 +4,14 @@ author: joeyclegg
 email: josephrc@cleggunlimited.com
 description: We are a new startup focused on integrating new technologies into the real estate software landscape.
 
+## Welcome to Real Estate Technologies
+
+We are a new startup focused on integrating new technologies into the real estate software landscape.
+
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 # Build settings
 markdown: kramdown
