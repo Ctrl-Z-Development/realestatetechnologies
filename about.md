@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Us
 ---
 
 This is an about page about this awesome site.
@@ -10,6 +10,10 @@ Reasons:
 - its great.
 - its a test.
 
-## Other thoughts
+## Our Team
 
-This is great.
+### Joseph Clegg - CEO and Co-Founder
+Put info here. 
+
+### James Motes - CTO and Co-Founder 
+Put info here. 
