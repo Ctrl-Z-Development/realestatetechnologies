@@ -1,4 +1,2 @@
-
-We are a new startup focused on integrating new technologies into the real estate software landscape.
-
-
+## We are pathing the way to a new Real Estate industry
+At RET, we create solutions that bring the Real Estate industry into the 21st century. 
