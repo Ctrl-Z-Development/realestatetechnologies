@@ -2,6 +2,8 @@
 layout: page
 ---
 
+## Our Mission 
+With advancements in machine learning and AI technologies
 
 ## Our Team
 
