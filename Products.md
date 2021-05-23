@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Products
+title: Products and Services
 ---
 
 #  The Cherry Family 
@@ -13,4 +13,9 @@ Searching for a home should be fun and exciting, the basic way homebuyers curren
 
 ## Cherry Estate Comparables Software
 
-hello
+Add info here. 
+
+
+## Cherry Consulting 
+
+Add info here. 
