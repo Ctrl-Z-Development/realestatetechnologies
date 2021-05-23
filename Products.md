@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Products and Services
+title: Products
 ---
 
 #  The Cherry Family 
