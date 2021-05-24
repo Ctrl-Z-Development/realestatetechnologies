@@ -14,4 +14,5 @@ Our vision is to turn the Real Estate industry upside down and to reimagine the 
 ### Joseph Clegg - CEO and Co-Founder
 With a degree in Industrial and Systems Engineering from Texas A&M University, Joseph Clegg started his engineering career as a Quality Engineer at Raytheon Technologies. At his time with Raytheon Technologies, Joseph gained valuable experience in leadership and deploying engineering projects to hundreds of employees. With a mindset geared towards innovation and solving complex problems, he teamed up with his life long friend to create Real Estate Technologies, to share both of thier ambitions and vision to modernize the real estate world. 
 ### James Motes - CTO and Co-Founder 
-Put info here. 
+Also starting at Texas A&M University, James Motes earned degrees Computer Engineering (BS) and Computer Science (MS) before pursuing his Ph.D. at the University of Illinois Urbana-Champaign. At Illinois, James has made research advances in the fields of artificial intelligence and robotics while developing a mindset for innovation. Joining his childhood friend and college roommate, James seeks to apply his experience in research and artificial intelligence to realize the vision of 
+Real Estate Technologies. 
