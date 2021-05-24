@@ -4,7 +4,7 @@ title:  Who We Are
 ---
 
 ## Our Mission 
-Advancements in machine learning and AI technologies have changed the landscape of industry making companies continiously innovate and develop products around these technologies. Our mission is to bring machine learning and AI technologies to the Real Estate realm in a broad stoke approach by serving the varity of activities in Real Estate.
+Advancements in machine learning and AI technologies have changed the landscape of industry making companies continuously innovate and develop products around these technologies. Our mission is to bring machine learning and AI technologies to the Real Estate realm in a broad stoke approach by serving the varity of activities in Real Estate.
 
 ## Our Vision
 Our vision is to turn the Real Estate industry upside down and to reimagine the way this industry currently runs. If you look at a chart regarding the advancements in computing technology, more advancements were accomplished in the last 10 years than the previous 100 years; at Real Estate Technologies our vision is to develop a similar chart in the Real Estate industry. 
